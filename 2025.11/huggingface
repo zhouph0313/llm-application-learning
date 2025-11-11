@@ -1,4 +1,0 @@
-Huggingface使用教程，pytorch版本都可以使用，主要用于下载对应的模型进行调用
-pipeline()：利用预训练模型进行推理的最简单方式
-
-例子：pipeline(task=“sentiment-analysis”)，情感分析任务
