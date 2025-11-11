@@ -1,2 +1,2 @@
 1.the basic architecture of transformer
-![trans](image/transformer.png)
+![trans](llm-application-learing/image/transformer.png)
