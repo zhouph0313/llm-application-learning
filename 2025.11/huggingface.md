@@ -112,3 +112,8 @@ class InteractiveGPT2:
 if __name__ == "__main__":
     generator = InteractiveGPT2('gpt2')
     generator.run()
+```
+
+学习了如何使用huggingface的模型简单调用，实现如情感分类，文本生成等效果，还需回顾相关代码，网址中有相应的进阶教程，如微调等技术，需要仔细阅读代码学习
+
+gpt2.py实现了一个网站形式的自动化脚本运行，可以输入相应内容进行输出，可以看作一个简单的demo学习。
